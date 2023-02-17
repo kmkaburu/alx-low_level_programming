@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - friday is good
- * Return: always 0
+ *main - friday is good
+ *Return: always 0
  */
 int main(void)
 {
