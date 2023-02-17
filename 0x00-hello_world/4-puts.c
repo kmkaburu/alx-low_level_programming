@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - A program
- * Return: 0 (Bad)
+ * Return: -0 (Bad)
  */
 int main(void)
 {
