@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - A program
- * return - 0 (Addict)
+ * return - 0(Addict)
  */
 int main (void)
 {
