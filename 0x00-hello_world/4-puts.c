@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
  * main - A program
- * Return: (Bad) -0
+ * return - 0 (Addict)
  */
-int main(void)
+int main (void)
 {
-        puts("\"Programming is like building a multilingual puzzle");
-        return (0);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
