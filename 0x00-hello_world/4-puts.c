@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Cancer cure
- *  Return: 0 (take med)
+ *  Return: 0 (Takemed)
  */
 int main(void)
 {
