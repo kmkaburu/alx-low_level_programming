@@ -1,10 +1,10 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
- *main - friday is good
- *Return: always 0
+ * main - Today is on sunday
+ * Return: 0 (God)
  */
 int main(void)
 {
-        puts("\"Programming is like building a multilingual puzzle");
-        return (0);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
