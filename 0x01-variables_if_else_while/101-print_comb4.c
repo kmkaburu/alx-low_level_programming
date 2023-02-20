@@ -12,11 +12,11 @@ int main(void)
 	int i;
 	int k;
 
-	for (c = 0; c <= 10; c++)
+	for (c = 0; c <= 9; c++)
 	{
-		for (i = 0; i <= 10; i++)
+		for (i = 0; i <= 9; i++)
 		{
-			for (k = 0; k <= 10; k++)
+			for (k = 0; k <= 9; k++)
 			{
 				if (c < i && i < k)
 				{
@@ -24,7 +24,7 @@ int main(void)
 					putchar(i + '0');
 					putchar(k + '0');
 
-					if (c + i + k != 24)
+					if (c + i + k != 7)
 					{
 						putchar(',');
 						putchar(' ');
